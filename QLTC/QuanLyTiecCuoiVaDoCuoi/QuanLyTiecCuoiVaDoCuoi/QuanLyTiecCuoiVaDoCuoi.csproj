@@ -1,0 +1,665 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{403495A9-8292-45B7-9E96-55B9C2129EA9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyTiecCuoiVaDoCuoi</RootNamespace>
+    <AssemblyName>QuanLyTiecCuoiVaDoCuoi</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>FF08E2C27AF1CC3351563BA07ADA3FD4C8E6CD84</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>QuanLyTiecCuoiVaDoCuoi_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.7\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dbQLTiecCuoiDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQLTiecCuoiDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQLTiecCuoiDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQLTiecCuoiDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQLTiecCuoiDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQLTiecCuoiDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQLTiecCuoiDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQLTiecCuoiDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQLTiecCuoiDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQLTiecCuoiDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoi2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoi2DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoi2DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoi2DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoi2DataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoi2DataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoi2DataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoiDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoiDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoiDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoiDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoiDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoiDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoiDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoiDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoiDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoiDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoiDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoiDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoiDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoiDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoiDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoiDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoiDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoiDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoiDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoiDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoiDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoiDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tiệc Cưới Control\UC_DsDichVu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tiệc Cưới Control\UC_DsDichVu.Designer.cs">
+      <DependentUpon>UC_DsDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tiệc Cưới Control\UC_QlGoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tiệc Cưới Control\UC_QlGoi.Designer.cs">
+      <DependentUpon>UC_QlGoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dụng Cụ Control\UC_QlDungCu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dụng Cụ Control\UC_QlDungCu.Designer.cs">
+      <DependentUpon>UC_QlDungCu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dụng Cụ Control\UC_QlThietBi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dụng Cụ Control\UC_QlThietBi.Designer.cs">
+      <DependentUpon>UC_QlThietBi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="function.cs" />
+    <Compile Include="Hợp đồng Control\UC_QlHoaDon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Hợp đồng Control\UC_QlHoaDon.Designer.cs">
+      <DependentUpon>UC_QlHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Thống Kê Control\UC_TkDoanhThu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Thống Kê Control\UC_TkDoanhThu.Designer.cs">
+      <DependentUpon>UC_TkDoanhThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thống Kê Control\UC_TkVatLieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Thống Kê Control\UC_TkVatLieu.Designer.cs">
+      <DependentUpon>UC_TkVatLieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thực đơn Control\UC_QlMonAn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Thực đơn Control\UC_QlMonAn.Designer.cs">
+      <DependentUpon>UC_QlMonAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thực đơn Control\UC_QlNguyenLieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Thực đơn Control\UC_QlNguyenLieu.Designer.cs">
+      <DependentUpon>UC_QlNguyenLieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tiệc Cưới Control\UC_DsKhachMoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tiệc Cưới Control\UC_DsKhachMoi.Designer.cs">
+      <DependentUpon>UC_DsKhachMoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tiệc Cưới Control\UC_DsSanhCuoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tiệc Cưới Control\UC_DsSanhCuoi.Designer.cs">
+      <DependentUpon>UC_DsSanhCuoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tiệc Cưới Control\UC_DsTiecCuoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tiệc Cưới Control\UC_DsTiecCuoi.Designer.cs">
+      <DependentUpon>UC_DsTiecCuoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrangChu.Designer.cs">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Đồ Cưới Control\UC_DsDoCuoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Đồ Cưới Control\UC_DsDoCuoi.Designer.cs">
+      <DependentUpon>UC_DsDoCuoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Đồ Cưới Control\UC_QlThiepCuoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Đồ Cưới Control\UC_QlThiepCuoi.Designer.cs">
+      <DependentUpon>UC_QlThiepCuoi.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Tiệc Cưới Control\UC_DsDichVu.resx">
+      <DependentUpon>UC_DsDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiệc Cưới Control\UC_QlGoi.resx">
+      <DependentUpon>UC_QlGoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dụng Cụ Control\UC_QlDungCu.resx">
+      <DependentUpon>UC_QlDungCu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dụng Cụ Control\UC_QlThietBi.resx">
+      <DependentUpon>UC_QlThietBi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hợp đồng Control\UC_QlHoaDon.resx">
+      <DependentUpon>UC_QlHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Thống Kê Control\UC_TkDoanhThu.resx">
+      <DependentUpon>UC_TkDoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thống Kê Control\UC_TkVatLieu.resx">
+      <DependentUpon>UC_TkVatLieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thực đơn Control\UC_QlMonAn.resx">
+      <DependentUpon>UC_QlMonAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thực đơn Control\UC_QlNguyenLieu.resx">
+      <DependentUpon>UC_QlNguyenLieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiệc Cưới Control\UC_DsKhachMoi.resx">
+      <DependentUpon>UC_DsKhachMoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiệc Cưới Control\UC_DsSanhCuoi.resx">
+      <DependentUpon>UC_DsSanhCuoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiệc Cưới Control\UC_DsTiecCuoi.resx">
+      <DependentUpon>UC_DsTiecCuoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrangChu.resx">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Đồ Cưới Control\UC_DsDoCuoi.resx">
+      <DependentUpon>UC_DsDoCuoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Đồ Cưới Control\UC_QlThiepCuoi.resx">
+      <DependentUpon>UC_QlThiepCuoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="dbQLTiecCuoiDataSet.xsc">
+      <DependentUpon>dbQLTiecCuoiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQLTiecCuoiDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet.xss">
+      <DependentUpon>dbQLTiecCuoiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet1.xsc">
+      <DependentUpon>dbQLTiecCuoiDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQLTiecCuoiDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet1.xss">
+      <DependentUpon>dbQLTiecCuoiDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet2.xsc">
+      <DependentUpon>dbQLTiecCuoiDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQLTiecCuoiDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet2.xss">
+      <DependentUpon>dbQLTiecCuoiDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet3.xsc">
+      <DependentUpon>dbQLTiecCuoiDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQLTiecCuoiDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet3.xss">
+      <DependentUpon>dbQLTiecCuoiDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet4.xsc">
+      <DependentUpon>dbQLTiecCuoiDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQLTiecCuoiDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet4.xss">
+      <DependentUpon>dbQLTiecCuoiDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet.xsc">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoi2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet.xss">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet1.xsc">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoi2DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet1.xss">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet2.xsc">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoi2DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet2.xss">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet3.xsc">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoi2DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet3.xss">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet4.xsc">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoi2DataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet4.xss">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet5.xsc">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoi2DataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet5.xss">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet6.xsc">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoi2DataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoi2DataSet6.xss">
+      <DependentUpon>dbQuanLyTiecCuoi2DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet.xsc">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoiDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet.xss">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet1.xsc">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoiDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet1.xss">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet10.xsc">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoiDataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet10.xss">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet2.xsc">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoiDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet2.xss">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet3.xsc">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoiDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet3.xss">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet4.xsc">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoiDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet4.xss">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet5.xsc">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoiDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet5.xss">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet6.xsc">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoiDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet6.xss">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet7.xsc">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoiDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet7.xss">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet8.xsc">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoiDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet8.xss">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet9.xsc">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoiDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet9.xss">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QuanLyTiecCuoiVaDoCuoi_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dbQLTiecCuoi.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dbQLTiecCuoi_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>dbQLTiecCuoi.mdf</DependentUpon>
+    </Content>
+    <Content Include="dbQuanLyTiecCuoi.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dbQuanLyTiecCuoi2.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dbQuanLyTiecCuoi2_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>dbQuanLyTiecCuoi2.mdf</DependentUpon>
+    </Content>
+    <Content Include="dbQuanLyTiecCuoi_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>dbQuanLyTiecCuoi.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

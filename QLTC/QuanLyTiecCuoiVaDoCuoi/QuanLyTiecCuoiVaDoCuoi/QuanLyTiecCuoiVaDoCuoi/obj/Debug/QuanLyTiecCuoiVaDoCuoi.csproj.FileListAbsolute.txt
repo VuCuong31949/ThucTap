@@ -1,0 +1,146 @@
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.exe.config
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.exe
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.pdb
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\Guna.UI2.dll
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.AssemblyReference.cache
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Form1.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Properties.Resources.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.TrangChu.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.GenerateResource.cache
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.CoreCompileInputs.cache
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTi.53358C28.Up2Date
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.exe
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.pdb
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsTiecCuoi.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.exe.manifest
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.application
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dụng_Cụ_Control.UC_QlDungCu.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dụng_Cụ_Control.UC_QlThietBi.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Hóa_Đơn_Control.UC_QlHoaDon.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thống_Kê_Control.UC_TkDoanhThu.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thống_Kê_Control.UC_TkVatLieu.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thực_đơn_Control.UC_QlMonAn.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thực_đơn_Control.UC_QlNguyenLieu.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsKhachMoi.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsDichVu.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsSanhCuoi.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Đồ_Cưới_Control.UC_DsDoCuoi.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Đồ_Cưới_Control.UC_QuanLyThiepCuoi.resources
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.TrustInfo.xml
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.exe.manifest
+C:\Users\ly gia thinh\source\repos\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.application
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.exe.config
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.exe.manifest
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.application
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.exe
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.pdb
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dịch_Vụ_Control.UC_QlDichVu.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dịch_Vụ_Control.UC_QlGoi.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dụng_Cụ_Control.UC_QlDungCu.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dụng_Cụ_Control.UC_QlThietBi.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Form1.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Hóa_Đơn_Control.UC_QlHoaDon.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Properties.Resources.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thống_Kê_Control.UC_TkDoanhThu.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thống_Kê_Control.UC_TkVatLieu.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thực_đơn_Control.UC_QlMonAn.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thực_đơn_Control.UC_QlNguyenLieu.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsKhachMoi.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsDichVu.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsSanhCuoi.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsTiecCuoi.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.TrangChu.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Đồ_Cưới_Control.UC_DsDoCuoi.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Đồ_Cưới_Control.UC_QuanLyThiepCuoi.resources
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.TrustInfo.xml
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.exe.manifest
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.application
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTi.53358C28.Up2Date
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.exe
+C:\Users\DELL\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.pdb
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.exe.config
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.exe.manifest
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.application
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.exe
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\QuanLyTiecCuoiVaDoCuoi.pdb
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\bin\Debug\Guna.UI2.dll
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.AssemblyReference.cache
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dịch_Vụ_Control.UC_QlDichVu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dịch_Vụ_Control.UC_QlGoi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dụng_Cụ_Control.UC_QlDungCu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dụng_Cụ_Control.UC_QlThietBi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Form1.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Hóa_Đơn_Control.UC_QlHoaDon.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Properties.Resources.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thống_Kê_Control.UC_TkDoanhThu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thống_Kê_Control.UC_TkVatLieu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thực_đơn_Control.UC_QlMonAn.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thực_đơn_Control.UC_QlNguyenLieu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsKhachMoi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsDichVu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsSanhCuoi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsTiecCuoi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.TrangChu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Đồ_Cưới_Control.UC_DsDoCuoi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Đồ_Cưới_Control.UC_QuanLyThiepCuoi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.GenerateResource.cache
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.CoreCompileInputs.cache
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.TrustInfo.xml
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.exe.manifest
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.application
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTi.53358C28.Up2Date
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.exe
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.pdb
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.AssemblyReference.cache
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dịch_Vụ_Control.UC_QlDichVu.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dịch_Vụ_Control.UC_QlGoi.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dụng_Cụ_Control.UC_QlDungCu.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dụng_Cụ_Control.UC_QlThietBi.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Form1.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Hóa_Đơn_Control.UC_QlHoaDon.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Properties.Resources.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thống_Kê_Control.UC_TkDoanhThu.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thống_Kê_Control.UC_TkVatLieu.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thực_đơn_Control.UC_QlMonAn.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thực_đơn_Control.UC_QlNguyenLieu.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsKhachMoi.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsDichVu.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsSanhCuoi.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsTiecCuoi.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.TrangChu.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Đồ_Cưới_Control.UC_DsDoCuoi.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Đồ_Cưới_Control.UC_QuanLyThiepCuoi.resources
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.GenerateResource.cache
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.CoreCompileInputs.cache
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.exe
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.pdb
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.TrustInfo.xml
+D:\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.exe.manifest
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.AssemblyReference.cache
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dịch_Vụ_Control.UC_QlDichVu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dịch_Vụ_Control.UC_QlGoi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dụng_Cụ_Control.UC_QlDungCu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Dụng_Cụ_Control.UC_QlThietBi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Form1.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Hóa_Đơn_Control.UC_QlHoaDon.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Properties.Resources.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thống_Kê_Control.UC_TkDoanhThu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thống_Kê_Control.UC_TkVatLieu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thực_đơn_Control.UC_QlMonAn.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Thực_đơn_Control.UC_QlNguyenLieu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsKhachMoi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsDichVu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsSanhCuoi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Tiệc_Cưới_Control.UC_DsTiecCuoi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.TrangChu.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Đồ_Cưới_Control.UC_DsDoCuoi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.Đồ_Cưới_Control.UC_QuanLyThiepCuoi.resources
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.GenerateResource.cache
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.csproj.CoreCompileInputs.cache
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.exe
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.pdb
+C:\Users\ly gia thinh\Downloads\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\QuanLyTiecCuoiVaDoCuoi\obj\Debug\QuanLyTiecCuoiVaDoCuoi.TrustInfo.xml
