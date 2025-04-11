@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="QuanLyTiecCuoiVaDoCuoi.exe.manifest" size="7926">
+    <dependentAssembly dependencyType="install" codebase="QuanLyTiecCuoiVaDoCuoi.exe.manifest" size="7927">
       <assemblyIdentity name="QuanLyTiecCuoiVaDoCuoi.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qkQIjKHl1dEstl0LOn94zEQUO8MlCK+xGp3GisYbhg4=</dsig:DigestValue>
+        <dsig:DigestValue>VTNF+zMoYZSGB1mVKEY/8XtMi8fXNoGEPTksU1JD8Zg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

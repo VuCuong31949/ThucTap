@@ -111,6 +111,26 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>dbQLTiecCuoiDataSet4.xsd</DependentUpon>
     </Compile>
+    <Compile Include="dbQLTiecCuoiDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQLTiecCuoiDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQLTiecCuoiDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQLTiecCuoiDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQLTiecCuoiDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQLTiecCuoiDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQLTiecCuoiDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQLTiecCuoiDataSet8.xsd</DependentUpon>
+    </Compile>
     <Compile Include="dbQuanLyTiecCuoi2DataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -160,6 +180,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>dbQuanLyTiecCuoiDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbQuanLyTiecCuoiDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbQuanLyTiecCuoiDataSet11.xsd</DependentUpon>
     </Compile>
     <Compile Include="dbQuanLyTiecCuoiDataSet2.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -412,6 +437,50 @@
     <None Include="dbQLTiecCuoiDataSet4.xss">
       <DependentUpon>dbQLTiecCuoiDataSet4.xsd</DependentUpon>
     </None>
+    <None Include="dbQLTiecCuoiDataSet5.xsc">
+      <DependentUpon>dbQLTiecCuoiDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQLTiecCuoiDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet5.xss">
+      <DependentUpon>dbQLTiecCuoiDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet6.xsc">
+      <DependentUpon>dbQLTiecCuoiDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQLTiecCuoiDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet6.xss">
+      <DependentUpon>dbQLTiecCuoiDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet7.xsc">
+      <DependentUpon>dbQLTiecCuoiDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQLTiecCuoiDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet7.xss">
+      <DependentUpon>dbQLTiecCuoiDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet8.xsc">
+      <DependentUpon>dbQLTiecCuoiDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQLTiecCuoiDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQLTiecCuoiDataSet8.xss">
+      <DependentUpon>dbQLTiecCuoiDataSet8.xsd</DependentUpon>
+    </None>
     <None Include="dbQuanLyTiecCuoi2DataSet.xsc">
       <DependentUpon>dbQuanLyTiecCuoi2DataSet.xsd</DependentUpon>
     </None>
@@ -521,6 +590,17 @@
     </None>
     <None Include="dbQuanLyTiecCuoiDataSet10.xss">
       <DependentUpon>dbQuanLyTiecCuoiDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet11.xsc">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbQuanLyTiecCuoiDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbQuanLyTiecCuoiDataSet11.xss">
+      <DependentUpon>dbQuanLyTiecCuoiDataSet11.xsd</DependentUpon>
     </None>
     <None Include="dbQuanLyTiecCuoiDataSet2.xsc">
       <DependentUpon>dbQuanLyTiecCuoiDataSet2.xsd</DependentUpon>

@@ -19,7 +19,8 @@ namespace QuanLyTiecCuoiVaDoCuoi
             return con;
         }
 
-    
+
+
 
 
         public DataSet getData(String query)

@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QuanLyTiecCuoiVaDoCuoi.exe" size="971784">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QuanLyTiecCuoiVaDoCuoi.exe" size="1313800">
       <assemblyIdentity name="QuanLyTiecCuoiVaDoCuoi" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HY/Bc4TRogojjxnuGxoMJtfhp1WtSTUwYpMhijqVRFY=</dsig:DigestValue>
+        <dsig:DigestValue>+WS9ahxIo7NFlVUOweUmCCEJXHwK8IAfm3Q2Kqr5Z4w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -71,7 +71,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>u88HZvqYnJLBpSb6pDTA4B7Fd3aSX7ix6UXTQ/7mm14=</dsig:DigestValue>
+      <dsig:DigestValue>IjukX59edkETYIVgqDYflJIN7Tnh58WZ8J0ab5G8ISs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="dbQLTiecCuoi_log.ldf" size="8388608" writeableType="applicationData">
@@ -80,7 +80,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>YlZw5lCSE0WpU/Io/SBs6DH5a2p3EawE+JUxymzLZfk=</dsig:DigestValue>
+      <dsig:DigestValue>tzek1OltiMssv1gv92+RHV8LOwgrATCoQcVx2j/Bork=</dsig:DigestValue>
     </hash>
   </file>
   <file name="dbQuanLyTiecCuoi.mdf" size="8388608" writeableType="applicationData">
@@ -89,7 +89,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qcH2+FqDSeqTm5sMNQ7oCd8tNI/ZDDQzlYWFaQ3f4UQ=</dsig:DigestValue>
+      <dsig:DigestValue>364JZpJWAfj63IR4tZdgcdCP7yN0kZqpyRoRHslh/6s=</dsig:DigestValue>
     </hash>
   </file>
   <file name="dbQuanLyTiecCuoi_log.ldf" size="8388608" writeableType="applicationData">
@@ -98,7 +98,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>8eYXoKJRB7apDUiirENlCwJMBE7oHuxRodGDZFnXA/k=</dsig:DigestValue>
+      <dsig:DigestValue>YGtaKm/OGtulnOwhf6yXjfiJbja6NHjUpfiWuG68Akk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="dbQuanLyTiecCuoi2.mdf" size="8388608" writeableType="applicationData">
@@ -107,7 +107,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>c9NAIoIhY7coHbnHOBo2NX8xwn2J9cpF5wjBqdsdVT8=</dsig:DigestValue>
+      <dsig:DigestValue>TuLNFjk1qvbQFsE1pqZGi3nxSs2EzxgNA55wNjUxLp4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="dbQuanLyTiecCuoi2_log.ldf" size="8388608" writeableType="applicationData">
@@ -116,7 +116,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>HdNrLcUEeLwncfDHBkBv3A4tGr90we9D3A12u1YvnEg=</dsig:DigestValue>
+      <dsig:DigestValue>LQYgbwWfJ28qcCy8J8WVOGvG6pzbJR6byZbyn8qZeik=</dsig:DigestValue>
     </hash>
   </file>
   <file name="QuanLyTiecCuoiVaDoCuoi.exe.config" size="1561">
